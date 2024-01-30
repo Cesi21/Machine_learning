@@ -1,0 +1,9 @@
+flask
+numpy
+tensorflow
+keras
+joblib
+pandas
+pillow
+scikit-learn
+tensorflow_addons
